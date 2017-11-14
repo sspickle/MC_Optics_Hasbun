@@ -4,6 +4,5 @@ This is a repository for a jupyter notebook meant to allows students to experime
 
 Click the "Binder" link below to try it out!
 
-[![Binder](http://mybinder.org/badge.svg)](https://github.com/sspickle/MC_Optics_Hasbun/blob/master/MC_Optics.ipynb)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sspickle/MC_Optics_Hasbun/master?filepath=MC_Optics.ipynb)
 
