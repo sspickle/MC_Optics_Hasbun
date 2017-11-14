@@ -4,5 +4,6 @@ This is a repository for a jupyter notebook meant to allows students to experime
 
 Click the "Binder" link below to try it out!
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/davidbradway/pythoncomposition)
+[![Binder](http://mybinder.org/badge.svg)](https://github.com/sspickle/MC_Optics_Hasbun/blob/master/MC_Optics.ipynb)
+
 
