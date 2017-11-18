@@ -6,3 +6,5 @@ Click the "Binder" link below to try it out!
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sspickle/MC_Optics_Hasbun/master?filepath=MC_Optics.ipynb)
 
+If you want to run the program from your command line see ![MC_Optics.py](./blob/master/MC_Optics.py) in the repository.
+
